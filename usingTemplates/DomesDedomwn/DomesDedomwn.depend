@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1591443216 source:c:\users\dani\desktop\domesdedomwn\main.cpp
+	<iostream>
+	<fstream>
+	<iostream>
+	<string>
+	<string.h>
+	<sstream>
+	<algorithm>
+	<bits/stdc++.h>
+	<cstdlib>
+	<ctime>
+	<typeinfo>
+	"BstNode/BstNode.h"
+	"AVLNode/AVLNode.h"
+	"HashTable/HashTable.h"
+
+1591442039 source:c:\users\dani\desktop\domesdedomwn\bstnode\bstnode.cpp
+	<bits/stdc++.h>
+	"BstNode.h"
+	<string>
+
+1591443384 c:\users\dani\desktop\domesdedomwn\bstnode\bstnode.h
+
+1591442610 source:c:\users\dani\desktop\domesdedomwn\avlnode\avlnode.cpp
+	<bits/stdc++.h>
+	"AVLNode.h"
+	<iostream>
+	<fstream>
+
+1591443544 c:\users\dani\desktop\domesdedomwn\avlnode\avlnode.h
+	"../BstNode/BstNode.h"
+
+1589490878 c:\users\dani\desktop\domesdedomwn\hashtable\hashtable.h
+	"HashNode.h"
+
+1589475204 c:\users\dani\desktop\domesdedomwn\hashtable\hashnode.h
+
+1589490928 source:c:\users\dani\desktop\domesdedomwn\hashtable\hashtable.cpp
+	<string>
+	<unordered_map>
+	<bits/stdc++.h>
+	<math.h>
+	"HashTable.h"
+	"HashNode.h"
+
+1592501976 source:c:\users\dani\desktop\usingtemplates\domesdedomwn\avlnode\avlnode.cpp
+	<bits/stdc++.h>
+	"AVLNode.h"
+	<iostream>
+	<fstream>
+
+1592501973 c:\users\dani\desktop\usingtemplates\domesdedomwn\avlnode\avlnode.h
+
+1592432625 c:\users\dani\desktop\usingtemplates\domesdedomwn\bstnode\bstnode.h
+
+1592501970 source:c:\users\dani\desktop\usingtemplates\domesdedomwn\bstnode\bstnode.cpp
+	<bits/stdc++.h>
+	"BstNode.h"
+	<string>
+
+1591461167 source:c:\users\dani\desktop\usingtemplates\domesdedomwn\hashtable\hashtable.cpp
+	<string>
+	<unordered_map>
+	<bits/stdc++.h>
+	<math.h>
+	"HashTable.h"
+	"HashNode.h"
+
+1591461167 c:\users\dani\desktop\usingtemplates\domesdedomwn\hashtable\hashtable.h
+	"HashNode.h"
+
+1591461167 c:\users\dani\desktop\usingtemplates\domesdedomwn\hashtable\hashnode.h
+
+1592511441 source:c:\users\dani\desktop\usingtemplates\domesdedomwn\main.cpp
+	<iostream>
+	<fstream>
+	<iostream>
+	<string>
+	<string.h>
+	<sstream>
+	<algorithm>
+	<bits/stdc++.h>
+	<cstdlib>
+	<ctime>
+	<typeinfo>
+	<chrono>
+	"BstNode/BstNode.h"
+	"AVLNode/AVLNode.h"
+	"HashTable/HashTable.h"
+
